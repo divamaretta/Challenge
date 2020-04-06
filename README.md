@@ -1,7 +1,13 @@
 # Challenge
 Pada Challenge kali ini kita disuruh membuat nilai siswa
 ![Alt Text](https://github.com/divamaretta/Challenge/blob/master/WhatsApp%20Image%202020-04-03%20at%2013.05.26.jpeg)
-Untuk pembuatannya yang saya lakukan tidak jauh beda dengan modul file native hanya dibuat lebih sederhana dan diberi variasi sedikit
+Untuk pembuatannya yang saya lakukan tidak jauh beda dengan modul file native hanya dibuat lebih sederhana dan diberi variasi sedikit.
+Pembuatan Database di phpmyadmin
+![Alt Text](https://github.com/divamaretta/Challenge/blob/master/Screenshot%20(385).png)
+![Alt Text](https://github.com/divamaretta/Challenge/blob/master/Screenshot%20(386).png)
+![Alt Text](https://github.com/divamaretta/Challenge/blob/master/Screenshot%20(387).png)
+
+Tampilannya
 
 #AWAL (1)
 ![Alt Text](https://github.com/divamaretta/Challenge/blob/master/Screenshot%20(384).png)
