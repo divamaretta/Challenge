@@ -15,6 +15,7 @@ dalam tampilan awal ini adalah tampilan sebelum dimasukkan data yang berikut ini
 
 #PENAMBAHAN(2)
 ![Alt Text](https://github.com/divamaretta/Challenge/blob/master/Screenshot%20(383).png)
+![Alt Text](https://github.com/divamaretta/Challenge/blob/master/Screenshot%20(389).png)
 tampilan ketika di tambah data
 
 #HASIL(3)
